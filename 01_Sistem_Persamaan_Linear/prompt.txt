@@ -1,0 +1,56 @@
+# DOKUMENTASI PROMPT
+## PROYEK KOMPUTASI NUMERIK
+### Penyelesaian Sistem Persamaan Linear (SPL) Tiga Variabel Menggunakan Metode Eliminasi Gauss
+
+**Identitas Mahasiswa**
+
+- Nama: Hildegardis Amaral
+- NIM: 202511420091
+- Program Studi: Teknik Informatika
+- Universitas: Universitas Dr. Soetomo Surabaya
+
+---
+
+### 1. Prompt Memahami Tugas
+
+"Saya sedang mengerjakan tugas Komputasi Numerik tentang penyelesaian Sistem Persamaan Linear tiga variabel. Tolong bantu saya memahami tugas ini dan jelaskan apa saja yang harus dikerjakan mulai dari algoritma, program Python, penjelasan kode, sampai dokumentasi di GitHub."
+
+### 2. Prompt Menentukan Metode
+
+"Untuk menyelesaikan Sistem Persamaan Linear tiga variabel, saya ingin menggunakan metode Eliminasi Gauss saja. Tolong gunakan metode tersebut secara konsisten dalam algoritma, perhitungan, dan program Python."
+
+### 3. Prompt Membuat Algoritma
+
+"Tolong buatkan algoritma penyelesaian SPL tiga variabel menggunakan metode Eliminasi Gauss. Jelaskan langkah-langkahnya secara berurutan dengan bahasa sederhana agar mudah saya pahami sebagai pemula."
+
+### 4. Prompt Membuat Program di Google Colab
+
+"Saya ingin membuat program penyelesaian SPL tiga variabel menggunakan Python di Google Colab. Tolong berikan kode secara bertahap dalam beberapa cell, mulai dari mengimpor library, memasukkan matriks, proses eliminasi Gauss, substitusi mundur, pemeriksaan hasil, hingga kesimpulan."
+
+### 5. Prompt Menjelaskan Setiap Cell
+
+"Tolong jelaskan setiap bagian kode dari Cell 1 sampai Cell 6 secara detail. Jelaskan fungsi kode, tujuan setiap perintah, dan hasil keluaran yang dihasilkan. Gunakan bahasa sederhana agar saya bisa memahami dan menjelaskan kembali kode tersebut."
+
+### 6. Prompt Memeriksa Program
+
+"Saya sudah menjalankan kode Python di Google Colab. Tolong bantu memeriksa apakah program sudah berjalan dengan benar, apakah hasil perhitungannya sesuai, dan apakah masih terdapat kesalahan pada kode."
+
+### 7. Prompt Membantu Dokumentasi GitHub
+
+"Tolong pandu saya memasukkan hasil pengerjaan Komputasi Numerik ke repository GitHub secara bertahap. Saya ingin mengunggah notebook IPYNB, file algoritma, dan penjelasan kode agar semua hasil pengerjaan tersimpan dengan rapi."
+
+### 8. Prompt Membuat Penjelasan Kode di GitHub
+
+"Tolong buatkan penjelasan detail setiap cell kode Python yang sudah saya kerjakan di Google Colab. Jelaskan fungsi kode dan hasil keluarannya agar dapat saya simpan dalam file penjelasan_kode.md di GitHub."
+
+### 9. Prompt Menyusun Dokumentasi Akhir
+
+"Tolong bantu saya melengkapi dokumentasi proyek Komputasi Numerik, termasuk file algoritma, notebook Python, penjelasan kode, prompt yang digunakan, dan video presentasi. Pastikan semua bagian saling sesuai dan menggunakan metode Eliminasi Gauss."
+
+---
+
+### Kesimpulan
+
+Prompt di atas merupakan dokumentasi instruksi yang digunakan dan disusun kembali berdasarkan proses pengerjaan proyek Komputasi Numerik bersama ChatGPT. Bantuan diberikan secara bertahap, mulai dari memahami tugas, menyusun algoritma, membuat program Python, menjelaskan kode, memeriksa hasil, hingga menyiapkan dokumentasi di GitHub.
+
+Proyek ini menggunakan metode Eliminasi Gauss untuk menyelesaikan Sistem Persamaan Linear tiga variabel.
