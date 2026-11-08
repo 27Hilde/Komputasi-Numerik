@@ -1,0 +1,32 @@
+ALGORITMA PENYELESAIAN SISTEM PERSAMAAN LINEAR 3 VARIABEL
+METODE ELIMINASI GAUSS
+
+A. TUJUAN
+Menyelesaikan Sistem Persamaan Linear (SPL) yang terdiri dari tiga persamaan dan tiga variabel, yaitu x, y, dan z, menggunakan metode Eliminasi Gauss.
+
+B. INPUT
+1. Koefisien variabel x, y, dan z dari ketiga persamaan.
+2. Nilai konstanta dari setiap persamaan.
+
+C. LANGKAH-LANGKAH ALGORITMA
+
+1. Mulai.
+2. Masukkan tiga persamaan linear yang memiliki tiga variabel.
+3. Pisahkan koefisien variabel dan nilai konstanta.
+4. Susun seluruh nilai tersebut ke dalam matriks augmented berukuran 3 × 4.
+5. Periksa elemen pivot pada kolom pertama.
+6. Jika elemen pivot bernilai nol, lakukan pertukaran baris dengan baris di bawahnya yang memiliki elemen tidak nol.
+7. Lakukan eliminasi baris untuk mengubah elemen di bawah pivot pertama menjadi nol.
+8. Lanjutkan proses eliminasi pada kolom kedua hingga terbentuk matriks segitiga atas.
+9. Periksa apakah elemen diagonal terakhir tidak bernilai nol. Jika seluruh pilihan pivot pada suatu kolom bernilai nol, periksa apakah sistem memiliki solusi atau tidak.
+10. Hitung nilai variabel z dari persamaan baris ketiga.
+11. Gunakan hasil z untuk menghitung nilai y dari persamaan baris kedua.
+12. Gunakan hasil y dan z untuk menghitung nilai x dari persamaan baris pertama.
+13. Tampilkan hasil akhir x, y, dan z.
+14. Selesai.
+
+D. OUTPUT
+Nilai x, y, dan z yang merupakan solusi dari Sistem Persamaan Linear tiga variabel.
+
+E. METODE YANG DIGUNAKAN
+Metode Eliminasi Gauss dengan operasi baris elementer dan substitusi mundur (back substitution).
